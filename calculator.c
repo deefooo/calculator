@@ -2,9 +2,9 @@
 
 int main() {
 
+  char operator;
   double num1;
   double num2;
-  char operator;
   double result;
 
   printf("enter an operator (+ - * /): ");
